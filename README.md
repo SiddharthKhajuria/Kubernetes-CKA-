@@ -12,7 +12,7 @@ This repository contains practice Kubernetes manifests used for preparing for th
 Apply the example manifests to a Kubernetes cluster with:
 
 ```bash
-kubectl apply -f pod.yaml
+kubectl apply -f nginx.yaml
 kubectl apply -f replicaset.yaml
 ```
 
